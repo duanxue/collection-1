@@ -7,6 +7,12 @@ function collect_all_even(collection) {
         if (collection[i] % 2 === 0) {
             arr.push(collection[i]);
         }
+asdasd
+
+
+
+
+
     }
     return arr;
 }
